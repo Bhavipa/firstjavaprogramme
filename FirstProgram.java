@@ -39,11 +39,7 @@ public class FirstProgram {
         System.out.println("Verification And Validation");
         System.out.println("Agile Model");
         System.out.println("Definition Of Done");
-        System.out.println("Definition of Ready");
-        System.out.print("Test Driven Development");
-        System.out.println(" Behaviour Driven Development");
-        System.out.println("Automation");
-        System.out.println("Kriyan");
+
 
 
 

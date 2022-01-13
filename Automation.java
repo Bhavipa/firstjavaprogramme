@@ -8,6 +8,7 @@ public class Automation {
         System.out.println("Programing Language");
         System.out.println("Java Features");
         System.out.println("Naming Conventions");
+        System.out.println("Data Types");
 
 
 
